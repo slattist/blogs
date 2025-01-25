@@ -22,6 +22,5 @@ links:
   icon: comment-discussion
 footer:
   copyright: "&copy; Copyright {{ year }} – [slattist.](https://github.com/slattist/) – All rights reserved."
-exclude: "README.md"
 meta:
   title: " | slattist"
