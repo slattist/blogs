@@ -26,9 +26,7 @@ These flags control various elements of the Roblox client, such as:
 - Adjusting experimental game engine features  
 - Debugging
 
-They are **not** a magic solution that can improve your game’s ping or performance beyond what your internet connection and computer hardware allow.  
-
----
+They are **not** a magic solution that can improve your game’s ping or performance beyond what your internet connection and computer hardware allow.
 
 ## **Why Buying FastFlags is a Scam**  
 
@@ -70,8 +68,6 @@ Instead of wasting money on fake FastFlags, here are **real ways** to improve yo
 ### **2. Upgrade Your Hardware (literally the best solution)**  
 - A **better graphics card** and **faster CPU** can improve Roblox’s performance.  
 - Buy better internet
-
----
 
 ## **Conclusion: Don’t Fall for the FastFlags Scam**  
 
